@@ -14,5 +14,4 @@ while n != 0:
         case _:
             print('     voce digitou outra coisa')
 
-
 print(' Fim do Programa')
